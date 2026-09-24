@@ -455,9 +455,3 @@ If this project helped you learn something about data analytics, feel free to:
 ⭐ Star the repository
 🍴 Fork the repository
 📢 Share it with others learning Data Analytics
-
----
-
-## 📜 License
-
-This project is available under the **MIT License**.
